@@ -30,8 +30,7 @@ const ChannelData: React.FC = () => {
           date="14/07/2020"
           content={
             <>
-              <Mention>@Guilherme Rodz</Mention>, me carrega no LoL e cs de novo
-              por favor?
+              <Mention>@Guilherme Rodz</Mention>, Faz mais UI clone por favor?
             </>
           }
           hasMention
